@@ -21,9 +21,29 @@
       "thumbnailUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Seconds%20To%20Spare/img1.png?raw=true",
       "thumbnailUrl2": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Seconds%20To%20Spare/img2.png?raw=true",
       "thumbnailUrl3": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Seconds%20To%20Spare/img3.png?raw=true"
-    }
+    },
+    {
+      "id": "hoppyscotch",
+      "gameName": "Hoppyscotch",
+      "credit": "Evelyn Greener, Mira Huhta, Rabi Attaii, Aleyna Baran",
+      "author": "Evelyn Greener",
+      "yearStart": 2025,
+      "yearEnd": "2026",
+      "teamName": "Team :sob:",
+      "madeFor": "MQU Represent Game Jam",
+      "title": "Hoppyscotch",
+      "interview": "Games have been there for us in many of our darkest moments. I came to game development with the desire to create a game that could be there for at least one person the way games were there for me. Game development is a craft I've fallen in love with, and I wish for all of us to have our voices heard, especially those spoken over.",
+      "description": "Hoppyscotch is a 2D puzzle game about frogs and equity, where you create accessible paths to get all frogs get home. Sometimes someone needs an extra hand, and that's okay!",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Jordy277/PACE-arcade-games/releases/download/hoppyscotch_v1.0.0/Hoppyscotch.zip", 
+      "executablePath": "Hoppyscotch/Hoppyscotch.exe", 
+      "iconUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Hoppyscotch/logo.png?raw=true",
+      "thumbnailUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Hoppyscotch/hoppyscotchdev.png?raw=true",
+      "thumbnailUrl2": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Hoppyscotch/forg.png?raw=true",
+      "thumbnailUrl3": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Hoppyscotch/gameplay.png?raw=true"
+    },
    
-  
+
   ]
 }
 
