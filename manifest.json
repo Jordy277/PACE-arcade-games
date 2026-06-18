@@ -44,7 +44,7 @@
     {
       "id": "vultur",
       "gameName": "VULTUR",
-      "credit": "Elswyth Porter, Georgina Moujalli, Harley Doolan, Hugh Guest, Jacques Roberts, Kerry Lin, Kurt Tikoft, Mungo Lennon, Ryan Crowe, Xavier Heta Cleret" ,
+      "credit": "Elswyth Porter, Georgina Moujalli, Harley Doolan, Hugh Guest, Jacques Roberts, Kerry Lin, Kurt Tikoft, Mungo Lennon, Ryan Crowe, Xavier Heta Cleret",
       "author": "Kurt Tikoft",
       "yearStart": 2024,
       "yearEnd": 2025,
@@ -56,7 +56,8 @@
       "version": "1.0.0",
       "downloadUrl": "https://github.com/Jordy277/PACE-arcade-games/releases/download/vultur_v1.0.0/VULTUR-Public-1.0.1.zip",
       "executablePath": "VULTUR-Public-1.0.1/VULTUR/Build/ProjectVulture.exe",
-      "iconUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Vultur/vultur_icon.png?raw=true",
+      "iconUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Vultur/vultur_icon-scaled.png?raw=true",
+       "thumbnailUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Vultur/vultur_icon.png?raw=true",
       "thumbnailUrl2" : "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Vultur/vultur_img1.png?raw=true",
       "thumbnailUrl3" : "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Vultur/vultur_img2.png?raw=true"
     },
@@ -81,7 +82,7 @@
       {
       "id": "death-knell",
       "gameName": "Death Knell",
-      "credit": "Katrina Tagle, Benedict Clayton, Connor Finlayson" ,
+      "credit": "Katrina Tagle, Benedict Clayton, Connor Finlayson",
       "author": "Katrina Tagle",
       "yearStart": 2025,
       "yearEnd": 2026,
@@ -93,11 +94,11 @@
       "version": "1.0.0",
       "downloadUrl": "https://github.com/Jordy277/PACE-arcade-games/releases/download/deathknell_v1.0.0/Occult.Deckbuilder.exe",
       "executablePath": "DeathKnell/Occult.Deckbuilder.exe",
-      "iconUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Death%20Knell/death-knell-icon.jpg?raw=true",
-      "thumbnailUrl" : "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Death%20Knell/death-knell-image2.jpg?raw=true",
-      "thumbnailUrl2" : "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Death%20Knell/death-knell-image3.jpg?raw=true",
-      "thumbnailUrl3" : "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Death%20Knell/death-knell-image4.jpg?raw=true"
-    }
+      "iconUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Death%20Knell/death-knell-icon-scaled.jpg?raw=true",
+      "thumbnailUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Death%20Knell/death-knell-image-2.png?raw=true",
+      "thumbnailUrl2" : "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Death%20Knell/death-knell-image3.png?raw=true",
+      "thumbnailUrl3" : "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Death%20Knell/death-knell-image4.png?raw=true"
+    },
    
    
 
