@@ -36,7 +36,7 @@
       "description": "Hoppyscotch is a 2D puzzle game about frogs and equity, where you create accessible paths to get all frogs get home. Sometimes someone needs an extra hand, and that's okay!",
       "version": "1.0.0",
       "downloadUrl": "https://github.com/Jordy277/PACE-arcade-games/releases/download/hoppyscotch_v1.0.0/Hoppyscotch.zip", 
-      "executablePath": "Hoppyscotch//Hoppyscotch/Hoppyscotch.exe", 
+      "executablePath": "Hoppyscotch/Hoppyscotch.exe", 
       "iconUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Hoppyscotch/logo.png?raw=true",
       "thumbnailUrl": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Hoppyscotch/hoppyscotchdev.png?raw=true",
       "thumbnailUrl2": "https://github.com/Jordy277/PACE-arcade-games/blob/main/Thumbnails/Hoppyscotch/forg.png?raw=true",
