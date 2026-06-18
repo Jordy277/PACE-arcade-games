@@ -13,7 +13,7 @@
       "madeFor": "Made for Macquarie University",
       "title": "Seconds To Spare",
       "interview": "Seconds to Spare was a year long project that ran over two consecutive semesters at Macquarie University in 2025. It was the first opportunity that I was given to work with a chosen team and make a video game from start to finish, and the original concept for the game was actually one I had created years prior. Being able to see that idea come to fruition was incredible, and the feeling I had when it was finally finished was something that really cemented the idea that choosing game design and development was the right choice. There was a lot of hesitation when I was deciding what kind of career I wanted to chase out of high school, and I had to weigh up whether I could feasibly chase a creative career and do what I really wanted to do, in an artistic industry that can be unforgiving. But taking that chance has been worth it; game development has provided me a way to express myself so loudly in my very own little corner of the internet, and having my first ever tangible result of my hard work was, and still is, indescribable.",
-      "description" : "Seconds to Spare is a first-person psycholocaily horror game where the player is trapped in an abandoned hospital with a magical hourglass."
+      "description" : "Seconds to Spare is a first-person psycholocaily horror game where the player is trapped in an abandoned hospital with a magical hourglass.",
       "version": "1.0.0",
       "downloadUrl": "https://github.com/Jordy277/PACE-arcade-games/releases/download/v1.0.0/SecondsToSpare.zip",
       "executablePath": "SecondsToSpareV1.1/SecondsToSpare.exe",
